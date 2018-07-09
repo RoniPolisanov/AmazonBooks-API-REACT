@@ -1,0 +1,48 @@
+[
+    {
+        "categories": [
+            "action",
+            "drama"
+        ],
+        "_id": "5b03e7f2fb6fc054638310b6",
+        "customer_id": 0,
+        "customer_name": "yossy ben",
+        "books": [
+            {
+                "book_id": "12d",
+                "book_autor": "danny jon",
+                "book_cat": "action",
+                "book_name": "edge"
+            },
+            {
+                "book_id": "1dd",
+                "book_autor": "sandra yel",
+                "book_cat": "drama",
+                "book_name": "drama book"
+            }
+        ]
+    },
+    {
+        "categories": [
+            "satire",
+            "romance"
+        ],
+        "_id": "5b0453a5fb6fc06ed0745e10",
+        "customer_id": 1,
+        "customer_name": "tamar cohen",
+        "books": [
+            {
+                "book_id": "ffd",
+                "book_autor": "will ac",
+                "book_cat": "romance",
+                "book_name": "me and her"
+            },
+            {
+                "book_id": "1xd",
+                "book_autor": "meir adony",
+                "book_cat": "romance",
+                "book_name": "just love"
+            }
+        ]
+    }
+]
